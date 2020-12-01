@@ -1,4 +1,7 @@
 # Assistive Chord Trainer for Keyboard Instruments
+
+Note: This repo is a mirror of the one that I originally contributed to during my undergraduate research, located here: https://github.com/Computational-Cognitive-Musicology-Lab/CapstoneKeyboardProject2020. That repo has the full commit history. I mirrored it here since the original repo can't be easily accessed from my GitHub profile.
+
 This is a BSMT Capstone Project for Spring 2020. The purpose of this project is to design a keyboard learning utility that bridges the gap between learning to play single notes and learning to play chords on a keyboard instrument.
 
 ## Table of Contents
